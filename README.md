@@ -1,10 +1,31 @@
 # Code-Design-Workshop
-## Teil 1: HTML und CSS
+## Teil 2: HTML und CSS
+### Setup
+#### Voraussetzungen
+- [NodeJS](https://nodejs.org/en/)
+- [Git](https://git-scm.com/downloads)
+- Ein Code-Editor (z.B. [Visual Studio Code](https://code.visualstudio.com/))
+#### Installation (einmalig)
+1. In den Projektordner gehen
+    ```sh
+   cd /pfad/zum/projektordner
+    ```
+2. Pakete installieren
+    ```sh
+    npm install
+    ```
+    
+### Development
+1. In den Projektordner gehen
+    ```sh
+   cd /pfad/zum/projektordner
+    ```
+2. Entwicklungsserver starten
+    ```sh
+    npm run dev
+    ```
+3. In der Kommandozeile angezeigte URL im Browser öffnen
 
-Das ist der erste Teil meines Webdevelopment Workshops.
-
-Am Beispiel einer ToDo Website werden hier die Grundlagen von Webentwicklung und Styling erklärt.
-
-→  [Teil 1 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_1.zip)
+→  [Teil 2 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_2.zip)
 
 → [zurück zu der Übersicht](https://github.com/KaiserRuben/Code-Design-Workshop/blob/main/README.md)

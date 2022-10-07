@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" href="%sveltekit.assets%/favicon.png" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="author" content="Ruben Kaiser">
+		<style>
+			@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+			body {
+				font-family: "Montserrat", sans-serif;
+				margin: 0;
+				padding: 0;
+				background: #1f1f1f;
+				color: #ffffff;
+			}
+			input, textarea {
+
+				border: none;
+				outline: none;
+
+				background: #2b2b2b;
+				color: #ffffff;
+
+				padding: 10px 20px;
+				margin-bottom: 10px;
+			}
+			button {
+				border: none;
+				outline: none;
+
+				background: #85F35E;
+				color: #000000;
+				box-shadow: 0px 0px 20px #85F35Eaa;
+
+				padding: 10px 20px;
+
+				transition: .5s;
+			}
+
+			button:hover {
+				box-shadow: 0px 0px 30px #85F35Ecc;
+				cursor: pointer;
+			}
+			form{
+				display: flex;
+				flex-direction: column;
+				align-items: center;
+				justify-content: center;
+			}
+		</style>
+		%sveltekit.head%
+	</head>
+	<body>
+		<div>%sveltekit.body%</div>
+	</body>
+</html>
