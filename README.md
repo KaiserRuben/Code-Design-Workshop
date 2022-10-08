@@ -15,6 +15,7 @@ Am Beispiel einer ToDo Website werden hier die Grundlagen von Webentwicklung und
 Das ist der zweite Teil meines Webdevelopment Workshops.
 
 In diesem Teil machen wir unsere Website dynamisch, mithilfe von JavaScript Frameworks (SvelteKit).
+
 →  [Teil 2 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_2.zip)
 
 → [zu Teil 2](https://github.com/KaiserRuben/Code-Design-Workshop/tree/Part_2)
