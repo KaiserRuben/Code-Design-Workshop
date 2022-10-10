@@ -26,6 +26,8 @@
     ```
 3. In der Kommandozeile angezeigte URL im Browser öffnen
 
+→ [Template herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_2_Grundgerüst.zip)
+
 →  [Teil 2 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_2.zip)
 
 → [zurück zu der Übersicht](https://github.com/KaiserRuben/Code-Design-Workshop/blob/main/README.md)
