@@ -1,21 +1,40 @@
-# Code-Design-Workshop
-## Teil 1: HTML und CSS
+# create-svelte
 
-Das ist der erste Teil meines Webdevelopment Workshops.
+***This is a template for the participants to download to get started faster.***
 
-Am Beispiel einer ToDo Website werden hier die Grundlagen von Webentwicklung und Styling erklärt.
+Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-→  [Teil 1 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_1.zip)
+## Creating a project
 
-→ [zu Teil 1](https://github.com/KaiserRuben/Code-Design-Workshop/tree/Part_1)
+If you're seeing this, you've probably already done this step. Congrats!
 
+```bash
+# create a new project in the current directory
+npm create svelte@latest
 
-## Teil 2: HTML und CSS
+# create a new project in my-app
+npm create svelte@latest my-app
+```
 
-Das ist der zweite Teil meines Webdevelopment Workshops.
+## Developing
 
-In diesem Teil machen wir unsere Website dynamisch, mithilfe von JavaScript Frameworks (SvelteKit).
+Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
 
-→  [Teil 2 herunterladen](https://github.com/KaiserRuben/Code-Design-Workshop/archive/refs/heads/Part_2.zip)
+```bash
+npm run dev
 
-→ [zu Teil 2](https://github.com/KaiserRuben/Code-Design-Workshop/tree/Part_2)
+# or start the server and open the app in a new browser tab
+npm run dev -- --open
+```
+
+## Building
+
+To create a production version of your app:
+
+```bash
+npm run build
+```
+
+You can preview the production build with `npm run preview`.
+
+> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
